@@ -1,0 +1,172 @@
+[{
+  "id": 1,
+  "totalScore": 0,
+  "username": "fmoulding0",
+  "score": 1,
+  "books": [
+    "The Catcher in the Rye",
+    "The Great Gatsby",
+    "To Kill a Mockingbird",
+    "1984",
+    "The Lord of the Rings",
+    "Pride and Prejudice",
+    "Animal Farm",
+    "The Hobbit",
+    "The Da Vinci Code",
+    "Harry Potter and the Philosopher's Stone"
+  ]
+}, {
+  "id": 2,
+  "totalScore": 0,
+  "username": "iblindmann1",
+  "score": 2,
+  "books": [
+    "One Hundred Years of Solitude",
+    "Moby Dick",
+    "The Adventures of Huckleberry Finn",
+    "Beloved",
+    "The Grapes of Wrath",
+    "The Color Purple",
+    "The Sound and the Fury",
+    "Heart of Darkness",
+    "Invisible Man",
+    "Their Eyes Were Watching God"
+  ]
+}, {
+  "id": 3,
+  "totalScore": 0,
+  "username": "gpeiro2",
+  "score": 3,
+  "books": [
+    "Wuthering Heights",
+    "Jane Eyre",
+    "The Picture of Dorian Gray",
+    "Dracula",
+    "Frankenstein",
+    "The War of the Worlds",
+    "Brave New World",
+    "The Hitchhiker's Guide to the Galaxy",
+    "A Clockwork Orange",
+    "The Hunger Games"
+  ]
+}, {
+  "id": 4,
+  "totalScore": 0,
+  "username": "cinnis3",
+  "score": 4,
+  "books": [
+    "The Alchemist",
+    "The God of Small Things",
+    "The Kite Runner",
+    "Life of Pi",
+    "The Secret Life of Bees",
+    "The Poisonwood Bible",
+    "The Joy Luck Club",
+    "The Help",
+    "The Book Thief",
+    "The Immortal Life of Henrietta Lacks"
+  ]
+}, {
+  "id": 5,
+  "totalScore": 0,
+  "username": "bposten4",
+  "score": 5,
+  "books": [
+    "The Sun Also Rises",
+    "Slaughterhouse-Five",
+    "Catch-22",
+    "In Cold Blood",
+    "Lord of the Flies",
+    "The Outsiders",
+    "Of Mice and Men",
+    "A Separate Peace",
+    "Fahrenheit 451",
+    "The Handmaid's Tale"
+  ]
+}, {
+  "id": 6,
+  "totalScore": 0,
+  "username": "jmell5",
+  "score": 6,
+  "books": [
+    "The Adventures of Sherlock Holmes",
+    "The Hound of the Baskervilles",
+    "The Maltese Falcon",
+    "The Hobbit",
+    "The Spy Who Came in from the Cold",
+    "Tinker Tailor Soldier Spy",
+    "The Girl with the Dragon Tattoo",
+    "The Silence of the Lambs",
+    "The Great Gatsby",
+    "Gone Girl"
+  ]
+}, {
+  "id": 7,
+  "totalScore": 0,
+  "username": "lfreebury6",
+  "score": 7,
+  "books": [
+    "The Picture of Dorian Gray",
+    "The Catcher in the Rye",
+    "The Great Gatsby",
+    "To Kill a Mockingbird",
+    "The Lord of the Rings",
+    "Pride and Prejudice",
+    "Animal Farm",
+    "The Hobbit",
+    "The Da Vinci Code",
+    "Harry Potter and the Philosopher's Stone"
+  ]
+}, {
+  "id": 8,
+  "totalScore": 0,
+  "username": "cgherardi7",
+  "score": 8,
+  "books": [
+    "The Hunger Games",
+    "The Catcher in the Rye",
+    "The Great Gatsby",
+    "To Kill a Mockingbird",
+    "The Lord of the Rings",
+    "Pride and Prejudice",
+    "Animal Farm",
+    "The Hobbit",
+    "The Da Vinci Code",
+    "Harry Potter and the Philosopher's Stone"
+  ]
+}, {
+  "id": 9,
+  "totalScore": 0,
+  "username": "operet8",
+  "score": 9,
+  "books": [
+    "The Catcher in the Rye",
+    "The Great Gatsby",
+    "To Kill a Mockingbird",
+    "The Lord of the Rings",
+    "Pride and Prejudice",
+    "Animal Farm",
+    "The Hobbit",
+    "The Da Vinci Code",
+    "Harry Potter and the Philosopher's Stone",
+    "The Adventures of Sherlock Holmes"
+  ]
+}, {
+  "id": 10,
+  "totalScore": 0,
+  "username": "hlegrice9",
+  "score": 10,
+  "books": [
+    "The Bell Jar",
+    "The Awakening",
+    "The Handmaid's Tale",
+    "The Color Purple",
+    "Their Eyes Were Watching God",
+    "The House on Mango Street",
+    "The Bluest Eye",
+    "The Things They Carried",
+    "The Catcher in the Rye",
+    "The Great Gatsby"
+  ]
+}
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "94d9c9f9-bb2c-443e-921f-54b08e84d36c",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Classic",
+    "pages": 281,
+    "readingDifficulty": 2,
+    "score": 9
+  },
+  {
+    "id": "b04917c5-5b5d-46cf-9d18-66c0f837f20d",
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "pages": 328,
+    "readingDifficulty": 3,
+    "score": 7
+  },
+  {
+    "id": "12e50ba7-87e2-4d8c-8c6e-9b9c0a423d81",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Classic",
+    "pages": 234,
+    "readingDifficulty": 2,
+    "score": 7
+  },
+  {
+    "id": "ecf30023-1cb9-4726-b05c-70d9b1c16f33",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic",
+    "pages": 180,
+    "readingDifficulty": 3,
+    "score": 5
+  },
+  {
+    "id": "f0b8bbce-51f2-48e5-8901-9b50fa0f8e16",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "pages": 432,
+    "readingDifficulty": 2,
+    "score": 12
+  },
+  {
+    "id": "1c3e6867-3a67-4751-8791-2d2a7b28c841",
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "genre": "Political Satire",
+    "pages": 112,
+    "readingDifficulty": 2,
+    "score": 4
+  },
+  {
+    "id": "1d8abbb4-2e2e-4da7-89c8-54e0faad07ec",
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "pages": 1178,
+    "readingDifficulty": 4,
+    "score": 42
+  },
+  {
+    "id": "52c746a7-15d2-4667-9e2c-2367da1d8c05",
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "pages": 597,
+    "readingDifficulty": 2,
+    "score": 18
+  },
+  {
+    "id": "fb9e6b81-786e-4a16-8dcb-6a496e54695c",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "pages": 310,
+    "readingDifficulty": 2,
+    "score": 12
+  },
+  {
+    "id": "a45f9eab-cf9d-4a16-8e6a-95e35b1406de",
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "pages": 768,
+    "readingDifficulty": 3,
+    "score": 23
+  }
+]
