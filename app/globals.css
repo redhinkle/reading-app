@@ -1,5 +1,5 @@
 body{
-  background-color: cadetblue;
+  background-color:lightblue;
 }
 
 header{
@@ -11,6 +11,22 @@ h1{
   text-align: center;
 
   color: #fff;
+}
+
+.menuItems{
+  display: flex;
+  justify-content: center;
+}
+
+.menuItem{
+  padding: 10px 20px;
+  list-style-type: none;
+}
+
+.menuItem a{
+  color:#fff;
+  font-weight: 400;
+  text-decoration: none;
 }
 
 .container{
@@ -27,13 +43,23 @@ h1{
   transition: all .2s ease-in-out;
   list-style-type: none;
   width: 50%;
+  
 }
 
+.card a{
+  text-decoration: none;
+  color:rgba(60, 64, 67, 1);
+}
 .card:hover{
   transform: scale(1.025);
   
 }
 
+.userImg{
+  width: 1em;
+  min-height: 1em;
+  border-radius: 50%;
+}
 .userList{
   margin: 0 auto;
 }
@@ -45,10 +71,12 @@ h1{
 }
 
 .userRank{
-  background-color:teal;
-  color:gold;
+  background-color:lightblue;
+  color:midnightblue;
   border-radius: 50%;
   font-size: 1.25rem;
   font-weight: 800;
-  padding: 2.25rem .75rem;
+  padding: 1rem;
+  max-height: 2rem;
+
 }

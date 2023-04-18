@@ -1,5 +1,6 @@
 [{
   "id": 1,
+  "image": "images/0.jpg",
   "totalScore": 0,
   "username": "fmoulding0",
   "score": 1,
@@ -17,6 +18,7 @@
   ]
 }, {
   "id": 2,
+  "image": "images/1.jpg",
   "totalScore": 0,
   "username": "iblindmann1",
   "score": 2,
@@ -27,21 +29,22 @@
     "Beloved",
     "The Grapes of Wrath",
     "The Color Purple",
-    "The Sound and the Fury",
-    "Heart of Darkness",
-    "Invisible Man",
-    "Their Eyes Were Watching God"
+    "The Great Gatsby",
+    "To Kill a Mockingbird",
+    "The Da Vinci Code",
+    "Harry Potter and the Philosopher's Stone"
   ]
 }, {
   "id": 3,
+  "image": "images/2.jpg",
   "totalScore": 0,
   "username": "gpeiro2",
   "score": 3,
   "books": [
     "Wuthering Heights",
-    "Jane Eyre",
-    "The Picture of Dorian Gray",
-    "Dracula",
+    "The Great Gatsby",
+    "To Kill a Mockingbird",
+    "1984",
     "Frankenstein",
     "The War of the Worlds",
     "Brave New World",
@@ -51,6 +54,7 @@
   ]
 }, {
   "id": 4,
+  "image": "images/3.jpg",
   "totalScore": 0,
   "username": "cinnis3",
   "score": 4,
@@ -58,16 +62,17 @@
     "The Alchemist",
     "The God of Small Things",
     "The Kite Runner",
-    "Life of Pi",
-    "The Secret Life of Bees",
-    "The Poisonwood Bible",
-    "The Joy Luck Club",
-    "The Help",
+    "The Lord of the Rings",
+    "Pride and Prejudice",
+    "Animal Farm",
+    "To Kill a Mockingbird",
+    "1984",
     "The Book Thief",
     "The Immortal Life of Henrietta Lacks"
   ]
 }, {
   "id": 5,
+  "image": "images/4.jpg",
   "totalScore": 0,
   "username": "bposten4",
   "score": 5,
@@ -75,9 +80,9 @@
     "The Sun Also Rises",
     "Slaughterhouse-Five",
     "Catch-22",
-    "In Cold Blood",
-    "Lord of the Flies",
-    "The Outsiders",
+    "The Great Gatsby",
+    "To Kill a Mockingbird",
+    "1984",
     "Of Mice and Men",
     "A Separate Peace",
     "Fahrenheit 451",
@@ -85,6 +90,7 @@
   ]
 }, {
   "id": 6,
+  "image": "images/5.jpg",
   "totalScore": 0,
   "username": "jmell5",
   "score": 6,
@@ -94,14 +100,14 @@
     "The Maltese Falcon",
     "The Hobbit",
     "The Spy Who Came in from the Cold",
-    "Tinker Tailor Soldier Spy",
-    "The Girl with the Dragon Tattoo",
-    "The Silence of the Lambs",
-    "The Great Gatsby",
+    "The Lord of the Rings",
+    "To Kill a Mockingbird",
+    "1984",
     "Gone Girl"
   ]
 }, {
   "id": 7,
+  "image": "images/6.jpg",
   "totalScore": 0,
   "username": "lfreebury6",
   "score": 7,
@@ -119,6 +125,7 @@
   ]
 }, {
   "id": 8,
+  "image": "images/7.jpg",
   "totalScore": 0,
   "username": "cgherardi7",
   "score": 8,
@@ -136,6 +143,7 @@
   ]
 }, {
   "id": 9,
+  "image": "images/8.jpg",
   "totalScore": 0,
   "username": "operet8",
   "score": 9,
@@ -153,6 +161,7 @@
   ]
 }, {
   "id": 10,
+  "image": "images/9.jpg",
   "totalScore": 0,
   "username": "hlegrice9",
   "score": 10,

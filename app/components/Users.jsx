@@ -1,8 +1,9 @@
-// 'use client'
+'use client'
 import Link from 'next/link'
 import React from 'react'
 import users from '../../data/users.json'
 import books from '../../data/books.json'
+import Image from 'next/image'
 
 //calculate book score
 function getBookScore(book) {
@@ -37,34 +38,41 @@ books.forEach(book => {
       
   }
   
-  );
+);
+  
+
 const Users = async () => {
 
   return (
     <div className="container">
       <h1>Top Users</h1>
       <ul className="userList">
-        {users.map((user, index) => (
-          <li key={user.id} className="card">
-            <Link href={`/users/${user.username}`}>
-              <p>
-                <span className="userRank">Rank #{index + 1}</span>
-              </p>
-              <p className="userListScore">
-                <span>
-                  <strong>Name:</strong> {user.username}
-                </span>
-                <span>
-                  <strong>Score:</strong> {user.totalScore}
-                </span>
-              </p>
-              <p>
-                <strong>Recent Book:</strong>{" "}
-                {user.books.length > 0 ? user.books.slice(-1)[0] : "N/A"}
-              </p>
-            </Link>
-          </li>
-        ))}
+        {users
+          .sort((first, second) => second.totalScore - first.totalScore)
+          .map((user, index) => (
+            <li key={user.id} className="card">
+              <Link href={`/users/${user.username}`}>
+                <p className="userListScore">
+                  <span className="userImg">
+                    <Image src={`/${user.image}`} width={200} height={200} />
+                  </span>
+                  <span className="userRank">Rank #{index + 1}</span>
+                </p>
+                <p className="userListScore">
+                  <span>
+                    <strong>Name:</strong> {user.username}
+                  </span>
+                  <span>
+                    <strong>Score:</strong> {user.totalScore}
+                  </span>
+                </p>
+                <p>
+                  <strong>Recent Book:</strong>{" "}
+                  {user.books.length > 0 ? user.books.slice(-1)[0] : "N/A"}
+                </p>
+              </Link>
+            </li>
+          ))}
       </ul>
     </div>
   );
